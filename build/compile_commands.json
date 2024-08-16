@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/codebase/mycodetest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\codebase\\mycodetest\\src\\main.cpp",
+  "file": "D:/codebase/mycodetest/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/codebase/mycodetest/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\main.dir\\include\\sample_head.cpp.obj -c D:\\codebase\\mycodetest\\include\\sample_head.cpp",
+  "file": "D:/codebase/mycodetest/include/sample_head.cpp",
+  "output": "CMakeFiles/main.dir/include/sample_head.cpp.obj"
+}
+]

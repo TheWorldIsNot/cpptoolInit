@@ -1,0 +1,3 @@
+D:/codebase/mycodetest/build/CMakeFiles/main.dir
+D:/codebase/mycodetest/build/CMakeFiles/edit_cache.dir
+D:/codebase/mycodetest/build/CMakeFiles/rebuild_cache.dir
