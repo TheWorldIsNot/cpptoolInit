@@ -1,1 +1,1 @@
-set envir is diffcult
+set envir is difficult
